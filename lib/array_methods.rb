@@ -29,5 +29,5 @@ def find_min_value(array)
   end
   counter += 1
 end
-high_num
+low_num
 end
