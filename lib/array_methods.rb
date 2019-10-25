@@ -21,5 +21,5 @@ high_num
 end
 
 def find_min_value(array)
-  # Add your solution here
+  low_num = array
 end
